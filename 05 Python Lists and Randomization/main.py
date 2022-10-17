@@ -1,2 +1,1 @@
-pi = 3.14159265359
-name = "Regan"
+high_score = 200
